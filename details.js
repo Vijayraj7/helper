@@ -7,7 +7,7 @@ var sss = [{
                 "Passport Photo"
             ],
             "steps": [
-                "Email doents to omegatriprayar@gmail.com"
+                "Email doents fdjndfvjifdngdfngidfgodfugdfgnto omegatriprayar@gmail.com"
             ],
             "duration": [
                 "2-3 wking days"
