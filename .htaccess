@@ -1,0 +1,4 @@
+<Directory ~ "\scripts">
+Order allow,deny
+Deny from all
+</Directory>
